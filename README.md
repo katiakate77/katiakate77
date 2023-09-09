@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 💫 About me:
 
-
+I am a Python Backend Developer.
 
 ### 💻 Tech stack:
 
